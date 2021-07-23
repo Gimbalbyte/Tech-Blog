@@ -11,18 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jakekelly44/tech-blog.git"
+    "url": "git@github.com: Gimbalbyte/Tech-Blog.git"
   },
-  "author": "Jake Kelly",
+  "author": "Ethan Morris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakekelly44/tech-blog/issues"
+    "url": "https://github.com/Gimbalbyte/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/jakekelly44/tech-blog#readme",
+  "homepage": "https://github.com/Gimbalbyte/Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^6.1.1",
-    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "express-session": "^1.17.1",
@@ -30,6 +29,7 @@
     "sequelize": "^5.21.12"
   },
   "devDependencies": {
+    "dotenv": "^8.6.0",
     "jest": "^26.4.2",
     "nodemon": "^2.0.4"
   }
